@@ -1,4 +1,4 @@
-USE sql_project
+USE p1_retail_db
 DROP TABLE IF EXISTS retail_sales
 CREATE TABLE retail_sales
 (
